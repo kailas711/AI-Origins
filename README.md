@@ -5,7 +5,7 @@ A collection of deep learning models implemented from scratch using PyTorch. bla
 ## Usage
 Clone this repository:
 
-git clone https://github.com/yourusername/ProfessionalDL.git
+`git clone https://github.com/kailas711/PyTorch-Playground.git`
 
 Install the necessary dependencies (PyTorch, NumPy, etc.).
 Explore the model implementations in the models/ directory.
