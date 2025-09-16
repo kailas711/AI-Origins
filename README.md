@@ -8,8 +8,6 @@ Going through the LLM training lifecycle
 
 This is a code repository supporting my blog series called AI Origins 
 
-## Usage
-Clone this repository:
-
 ## Contributions
-Contributions are welcome! If you have a professional-grade model to share, submit a pull request. Let’s elevate the field of deep learning together. 
+Contributions are welcome! If you have a professional-grade model to share, submit a pull request. 
+Let’s elevate the field of deep learning together. 
